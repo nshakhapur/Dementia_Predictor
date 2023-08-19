@@ -2,7 +2,6 @@ matplotlib==3.4.3
 numpy== 1.23.1
 pandas== 2.0.3
 pip==22.1.2
-sklearn==0.0.post5
 scikit-learn== 1.1.1
 streamlit==1.25.0
 
