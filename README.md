@@ -1,3 +1,4 @@
+
 # Dementia Predictor
 
 ## This Dementia predictor is my first website made using Machine Learning 
@@ -16,6 +17,5 @@ The Dementia Predictor is an application that leverages the power of Machine Lea
 
 ### For beginners you can try out the following data to see the different results:
 
-![sample](https://github.com/nshakhapur/Dementia_Predictor/assets/96770503/548fd102-e43a-4e3f-a857-5cdc2fa4ee78)
-
+![sample](https://github.com/nshakhapur/Dementia_Predictor/assets/96770503/9d043fc6-5779-4ff0-a82c-9b1831b7650a)
         
