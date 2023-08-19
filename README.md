@@ -16,5 +16,6 @@ The Dementia Predictor is an application that leverages the power of Machine Lea
 
 ### For beginners you can try out the following data to see the different results:
 
- ![sample](https://github.com/nshakhapur/Dementia_Predictor/assets/96770503/6b8d94a8-6a14-4c09-b508-02a20f3c110e)
+![sample](https://github.com/nshakhapur/Dementia_Predictor/assets/96770503/548fd102-e43a-4e3f-a857-5cdc2fa4ee78)
+
         
